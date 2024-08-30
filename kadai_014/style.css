@@ -1,0 +1,46 @@
+
+html {
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+h1 {
+    font-family:"Josefin Sans", sans-serif;
+    font-size: 2rem;
+    letter-spacing: 1.2em;
+    text-shadow: 10px 10px 5px pink;
+    border-bottom: 3px solid rgb(115, 115, 114);
+}
+
+
+body {
+    font-family: "Arial", "Meiryo", sans-serif;
+    
+}
+
+.google-fonts {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;  
+}
+
+
+
+
+.indent{
+    color: skyblue;
+}
+
+.textpink {
+    color: rgb(255,192,203);
+}
+
+.textblue {
+    color: skyblue;
+}
+
+.textbold{
+    font-weight: bold;
+}
