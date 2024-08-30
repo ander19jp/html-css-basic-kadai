@@ -41,6 +41,6 @@ body {
     color: skyblue;
 }
 
-.textbold{
+#basic p.textbold {
     font-weight: bold;
 }
